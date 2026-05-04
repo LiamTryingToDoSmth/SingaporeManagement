@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/sub/:path*",
+      "destination": "https://sg.nextbigstep.cyou:2096/sub/:path*"
+    }
+  ]
+}
